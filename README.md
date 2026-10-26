@@ -1,5 +1,5 @@
 
-# Anleitung: Apple-Geräte mit dem Smartboard verbinden
+# Apple Anleitung:
 
 Bildschirm über AirPlay kabellos übertragen
 
@@ -19,13 +19,14 @@ Stelle sicher, dass dein Apple Gerät mit dem Gäste Wlan verbunden ist.
  2. Klicke auf *„Bildschirmsynchronisierung“* oder *„Bildschirmspiegelung“*.
 
 # Schritt 4: Smartboard auswählen
-Wähle in der Liste der verfügbaren Geräte das angezeigte Smartboard aus. Der Gerätename wird normalerweise auf dem Smartboard angezeigt.
+Wähle in der Liste das angezeigte Smartboard aus.
 
 # Schritt 5: Verbindung bestätigen
-Warte, bis die Verbindung hergestellt wurde. Falls auf dem Smartboard ein AirPlay-Code angezeigt wird, gib diesen auf deinem Apple-Gerät ein.
+Warte, bis die Verbindung hergestellt wurde.
 
 # Schritt 6: Inhalte übertragen
-Nach erfolgreicher Verbindung wird der Bildschirm deines Apple-Geräts auf dem Smartboard angezeigt. Du kannst nun beispielsweise Präsentationen öffnen, Bilder zeigen oder Apps verwenden.
+Nach erfolgreicher Verbindung wird der Bildschirm deines Apple-Geräts auf dem Smartboard angezeigt. 
+Du kannst nun beispielsweise Präsentationen öffnen, Bilder zeigen oder Apps verwenden.
 
 Beim Mac kannst du, sofern angeboten, zwischen der Spiegelung des Bildschirms und der Verwendung des Smartboards als erweitertem Bildschirm wählen.
 
@@ -40,5 +41,3 @@ Auf dem Mac:
 1. Öffne das Kontrollzentrum.
 2. Wähle die Bildschirmspiegelung aus.
 3. Trenne die Verbindung zum Smartboard.
-
-*Hinweis:* Die Menübezeichnungen können je nach Apple-Gerät und Betriebssystemversion leicht abweichen. AirPlay funktioniert nur, wenn das Smartboard oder die darauf verwendete Software AirPlay unterstützt.
