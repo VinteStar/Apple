@@ -1,4 +1,4 @@
-<img width="250" height="200" alt="WhatsApp Image 2026-10-27 at 12 47 15" src="https://github.com/user-attachments/assets/20b41f4b-1fdf-4f56-80d3-0c780467e52d" />
+<img width="500" height="150" alt="WhatsApp Image 2026-10-27 at 12 47 15" src="https://github.com/user-attachments/assets/20b41f4b-1fdf-4f56-80d3-0c780467e52d" />
 
 # Apple Anleitung:
 
