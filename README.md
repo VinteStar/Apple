@@ -7,6 +7,9 @@ Bildschirm über AirPlay kabellos übertragen
 Mit Apple AirPlay kannst du den Bildschirm deines iPhones, iPads oder Macs kabellos auf das Smartboard übertragen. So lassen sich beispielsweise Präsentationen, Fotos, Videos und andere Inhalte direkt auf dem großen Bildschirm anzeigen.
 
 # Schritt 1: Smartboard einschalten
+Schalte das Smartboard ein und tippe auf Bildschirmfreigabe.
+
+# Schritt 2: Verbindung vorbereiten
 Stelle sicher, dass dein Apple Gerät mit dem Gäste Wlan verbunden ist.
 
 # Schritt 3: Bildschirmübertragung öffnen
